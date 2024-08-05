@@ -1,0 +1,56 @@
+*   {
+    box-sizing: border-box;
+    }
+
+h1  {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./resources/pattern.jpeg);
+    }
+
+
+
+.brush{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+        }
+
+.frame{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+        }
+
+.paint{
+        font-family: Helvetica;
+        font-size: 32px;
+        font-weight: bold;
+        color: white;
+        background-color: skyblue;
+        }
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+    }
+
+p {
+    font-family: Helvetica;
+    font-weight: normal;
+    color: black;
+}
+
+bold {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
